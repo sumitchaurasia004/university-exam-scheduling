@@ -1,4 +1,4 @@
-# university-exam-scheduling
+# university-exam-scheduling Awesome project
 
 ## Course Project : Algorithms(MTH524)
 
